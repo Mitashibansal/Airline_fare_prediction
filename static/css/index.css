@@ -1,0 +1,20 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+}
+
+.navbar {
+    background-color:transparent;
+}
+.card {
+    background-color: transparent;
+    border: none;
+}
+        
+a {
+    color: #1714ac;   
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
