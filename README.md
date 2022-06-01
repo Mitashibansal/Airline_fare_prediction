@@ -8,7 +8,7 @@
   * [Result](#result)
   * [Future scope of project](#future-scope)
  ## Demo:
-https://user-images.githubusercontent.com/84284893/171423487-153feae2-ccce-4102-879a-ef8ddb452c17.mp4
+https://user-images.githubusercontent.com/84284893/171425349-b40874a8-fb51-4e25-aaa0-4647ed59da6e.mp4
 ## Overview:
  This study demonstrates the interdependence of every aspect of flying on the price of an airline ticket. As part of the research, an extensive dataset of 10683 flight records from various airlines was gathered and utilised to develop a Random Forest, Decision Tree, Linear Regression model. There is a significant difference in accuracy between the Linear Regression(62.5%), Decision Tree Regressor model(71.7%) and the random forest model(82.9%) when it comes to predicting flight delays and cancellations.
 ## Motivation:
