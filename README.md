@@ -6,7 +6,7 @@
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
   * [Technology used](#technology-used)
-  * [Result](#result)
+  * [Result](#results)
   * [Future scope of project](#future-scope)
  ## Demo:
 https://user-images.githubusercontent.com/84284893/171425349-b40874a8-fb51-4e25-aaa0-4647ed59da6e.mp4
