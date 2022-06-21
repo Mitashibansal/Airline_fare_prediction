@@ -5,6 +5,7 @@
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
+  * [Technology used](#technology-used)
   * [Result](#result)
   * [Future scope of project](#future-scope)
  ## Demo:
