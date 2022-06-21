@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 ## Results:
 ![Picture1](https://user-images.githubusercontent.com/84284893/171424984-8aa7eee3-5e2b-49ec-b22a-0648b192d182.png)
-## Future Scope :
+## Future Scope:
 * Web integrated app to predict flight delays
 * Optimize Flask app.py
 * Interactive Front-End 
